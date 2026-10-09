@@ -1,0 +1,41 @@
+{
+  "apps": [
+ 
+    {
+      "name": "Pizza Delivery Sim OL",
+      "packageName": "com.delivery.pidzaa.rydx",
+      "targetAsin": "B0GJ3BDYQ5",
+      "storeUrl": "https://www.amazon.com/Pizza-Delivery-Simulator-Food-Bike/dp/B0GJ3BDYQ5",
+      "rewardedVideoURL": "https://files.catbox.moe/x6mgat.mp4"
+    },
+  
+    {
+      "name": "Car Driving Simulator OL",
+      "packageName": "com.dts.car.driving.simulator",
+      "targetAsin": "B0GFNKG9XL",
+      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
+      "rewardedVideoURL": "https://files.catbox.moe/6bmh8p.mp4"
+    },
+    {
+      "name": "Pizza Delivery Sim OL",
+      "packageName": "com.delivery.pidzaa.rydx",
+      "targetAsin": "B0GJ3BDYQ5",
+      "storeUrl": "https://www.amazon.com/Pizza-Delivery-Simulator-Food-Bike/dp/B0GJ3BDYQ5",
+      "rewardedVideoURL": "https://files.catbox.moe/0ybmu4.mp4"
+    },
+     {
+      "name": "Pizza Delivery Sim OL",
+      "packageName": "com.delivery.pidzaa.rydx",
+      "targetAsin": "B0GJ3BDYQ5",
+      "storeUrl": "https://www.amazon.com/Pizza-Delivery-Simulator-Food-Bike/dp/B0GJ3BDYQ5",
+      "rewardedVideoURL": "https://files.catbox.moe/yzskuk.mp4"
+    },
+    {
+      "name": "AirPlane Simulator",
+      "packageName": "com.ikk.flight.pilot.airplane.games",
+      "targetAsin": "B0BFQPLZS1",
+      "storeUrl": "https://www.amazon.com/Airplane-Simulator-Landing-Adventure-Games/dp/B0BFQPLZS1",
+      "rewardedVideoURL": "https://files.catbox.moe/3750me.mp4"
+    }
+  ]
+}
